@@ -1,0 +1,23 @@
+# Ignore node_modules in all directories
+admin/node_modules/
+client/node_modules/
+server/node_modules/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Environment files
+*.env
+*.env.local
+
+# IDE settings
+.vscode/
+.idea/
+
+# Log files
+logs/
+*.log
+
+# Downloads or generated folders
+downloads/
