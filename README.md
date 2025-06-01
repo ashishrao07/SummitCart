@@ -62,13 +62,4 @@ Each module has its own setup instructions. See:
 - [Client README](./client/README.md)
 - [Server README](./server/README.md)
 
-**## 🧑‍💻 Author**
 
-**Ashish Rao**  
-GitHub: [@ashishrao07](https://github.com/ashishrao07)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
